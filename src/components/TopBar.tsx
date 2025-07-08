@@ -7,7 +7,8 @@ export default function TopBar() {
       
       <div className="flex items-center space-x-3 text-sm text-gray-700">
 
-         <div className="relative w-5 h-4 rounded-sm overflow-hidden border border-gray-400 flex-shrink-0">
+         <div className="relative w-5 h-4 rounded-sm overflow-hi
+         dden border border-gray-400 flex-shrink-0">
       <div className="absolute right-0 top-0 h-full w-1/3 bg-[#618666]"></div>
     </div>
         <span className="text-gray-300 font-semibold">Workspace</span>
